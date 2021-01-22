@@ -68,12 +68,6 @@
         <id>central</id>
         <name>Internal Release</name>
         <url>http://192.168.1.214:8081/repository/SAMPLE-RELEASE/</url>
-    </snapshotrepository>
-	<repository>
-        <id>central</id>
-        <name>Internal Snapshot Release</name>
-        <url>http://192.168.1.214:8081/repository/SAMPLE-SNAPSHOT/</url>
-    </snapshotrepository>
-</distributionManagement>
+    </distributionManagement>
 
 </project>
